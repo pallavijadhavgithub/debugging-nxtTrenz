@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.button {
+  background-color: transparent;
+  border: 0;
+  font-family: 'Roboto';
+  color: #1e293b;
+  font-size: 17px;
+  font-weight: 500;
+}
+.btn {
+  border: 1px solid #0284c7;
+  color: #0284c7;
+  border-radius: 10px;
+  padding-left: 6px;
+  padding-right: 6px;
+}
